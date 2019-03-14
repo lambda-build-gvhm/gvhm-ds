@@ -39,5 +39,3 @@ Specifically, if you wish to recreate the county heat map, you will need to run 
 It queries the US census's openly available API to map latitude/longitude to county.
 Some of the data will be missing, as there are 41 independent cities in the United States, which do not have counties.
 Most notably, Baltimore, Maryland. 
-
-You will need to run the notebooks, either in local or hosted environment, and you will need to change out the credentials listed in the notebook with your Kaggle API keys. 
