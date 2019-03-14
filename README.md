@@ -17,12 +17,12 @@ Predictive Modeling
  -- Pandas, Jupyter, MatPlotLib, Seaborn, Plotly, Folium, Numpy, Geopy
 
 # Needs of this project
-Frontend developer to integrate visuals and provide a layout for theme/color scheme and integrating content.
-Backend developer for securing endpoints, authenticated login, and routing.
-Data exploration/descriptive statistics
-Data processing/cleaning
-Statistical modeling
-Writeup/Reporting
+Frontend developer to integrate visuals and provide a layout for theme/color scheme and integrating content.  
+Backend developer for securing endpoints, authenticated login, and routing.  
+Data exploration/descriptive statistics  
+Data processing/cleaning  
+Statistical modeling  
+Writeup/Reporting  
 
 # Getting Started
 Clone this repo
