@@ -31,7 +31,7 @@ Raw Data is being kept [here](https://www.kaggle.com/jameslko/gun-violence-data)
 
 To obtain this data you will need to sign up for a Kaggle account and download the data from the webpage. 
 You will also need to create a Plotly account if you wish to save these visualizations offline.
-If you plan to use these visualizations offline, you must replace the credentials of this notebook with your own.
+If you plan to use these visualizations offline, you must replace the credentials of these notebooks with your own.
 Please refer to https://plot.ly/python/getting-started/ for more information.
 
 Data processing/transformation scripts are built into the accompanying juypter notebooks.
