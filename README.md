@@ -14,7 +14,7 @@ Predictive Modeling
 
 # Technologies
 ## Python
- -- Pandas, Jupyter, Seaborn, Plotly, Folium
+ -- Pandas, Jupyter, MatPlotLib, Seaborn, Plotly, Folium, Numpy, Geopy
 
 # Needs of this project
 Frontend developer to integrate visuals and provide a layout for theme/color scheme and integrating content.
@@ -35,4 +35,9 @@ If you plan to use these visualizations offline, you must replace the credential
 Please refer to https://plot.ly/python/getting-started/ for more information.
 
 Data processing/transformation scripts are built into the accompanying juypter notebooks.
+Specifically, if you wish to recreate the county heat map, you will need to run fips_codes.py
+It queries the US census's openly available API to map latitude/longitude to county.
+Some of the data will be missing, as there are 41 independent cities in the United States, which do not have counties.
+Most notably, Baltimore, Maryland. 
+
 You will need to run the notebooks, either in local or hosted environment, and you will need to change out the credentials listed in the notebook with your Kaggle API keys. 
