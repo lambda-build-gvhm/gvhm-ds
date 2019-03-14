@@ -38,7 +38,7 @@ Data processing/transformation scripts are built into the accompanying juypter n
 Specifically, if you wish to recreate the county heat map, you will need to run fips_codes.py
 
 To use Plotly from a jupyter notebook, please use the following commands.  
-![Install instructions](https://imgur.com/a/xQF71PL#eKvZ9O8)  
+![Install instructions](install_deps.png)  
 
 It queries the US census's openly available API to map latitude/longitude to county.
 Some of the data will be missing, as there are 41 independent cities in the United States, which do not have counties.
