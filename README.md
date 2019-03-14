@@ -8,8 +8,8 @@ The purpose of this project is to create a web app that shows the impact of gun 
 We created what we considered a somber theme and accompanying visuals to allow the user to really explore the entire country and the time period's history of gun violence.
 
 # Methods Used
-Inferential Statistics
-Data Visualization
+Inferential Statistics  
+Data Visualization  
 Predictive Modeling
 
 # Technologies
